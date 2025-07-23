@@ -1,0 +1,5 @@
+all-MiniLM-L6-v2/
+venv/
+
+.huggingface/
+*.env
