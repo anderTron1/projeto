@@ -1,29 +1,337 @@
 turma,ano_letivo,matricula,aluno,disciplina,nota_1bim,nota_2bim,nota_3bim,nota_4bim,para_fechar,status
-1A,2024,2412752317-6,ANA CLARA REIS DA SILVA,MATEMÁTICA,7.9,6.1,4.6,6.1,0.0,Aprovado
-1A,2024,2412727121-1,ANA JULIA DA SILVA E SILVA,MATEMÁTICA,8.0,6.5,6.0,6.0,0.0,Aprovado
-1A,2024,1811397482-9,ANNA CLARA CALERO GUIDA,MATEMÁTICA,6.9,6.5,6.0,4.6,0.0,Aprovado
-1A,2024,2412732617-5,DÉRICK KAUÃ LIMA FERREIRA,MATEMÁTICA,6.1,6.1,6.8,7.6,0.0,Aprovado
-1A,2024,2312711135-2,ELIAESTE GOMES SARDINHA NETO,MATEMÁTICA,6.1,6.0,6.0,6.6,0.0,Aprovado
-1A,2024,1811400823-9,ELLEN ESTER DIAS FONSÊCA,MATEMÁTICA,,,,,,(transferido)
-1A,2024,2312382937-0,EVELYN GUEDES RAMOS,MATEMÁTICA,5.6,7.6,6.3,9.0,0.0,Aprovado
-1A,2024,2011829467-6,FERNANDA SANTOS SILVA,MATEMÁTICA,6.1,6.8,6.5,7.2,0.0,Aprovado
-1A,2024,2412698289-2,GABRIEL FERNANDO CARDIM OLIVEIRA FERNANDES,MATEMÁTICA,7.2,6.0,6.0,4.8,0.0,Aprovado
-1A,2024,1310202082-6,GEANA MARIELY MIRANDA MORAES,MATEMÁTICA,,,,,,(transferido)
-1A,2024,2312506018-1,GEOVANNA SODRE CRUZ,MATEMÁTICA,,,,,,(transferido)
-1A,2024,2312544975-5,IZADORA RODRIGUES FELIX,MATEMÁTICA,,,,,,(transferido)
-1A,2024,1711116513-0,JOÃO PEDRO EVARISTO SAMPAIO,MATEMÁTICA,6.2,6.1,6.1,6.1,0.0,Aprovado
-1A,2024,2011694975-2,JOSE WESLEY DA CONCEIÇAO SILVA,MATEMÁTICA,,,,,,(transferido)
-1A,2024,2111991371-6,JULIANA YASMIN MENDES CHAGAS,MATEMÁTICA,7.5,6.9,4.6,6.0,0.0,Aprovado
-1A,2024,2412726562-7,JULLIA VICTORIA GUIMARÃES COSTA,MATEMÁTICA,6.8,6.1,6.0,5.1,0.0,Aprovado
-1A,2024,2111922702-7,KAMILLY VITORIA DOS REIS SOUZA,MATEMÁTICA,7.5,6.5,6.1,6.0,0.0,Aprovado
-1A,2024,1911550937-3,KAUÂ VICTOR ALVES RODRIGUES,MATEMÁTICA,7.6,6.0,6.0,4.4,0.0,Aprovado
-1A,2024,2412739240-9,KAUANA VITORIA SOARES LEMOS,MATEMÁTICA,6.4,6.0,6.1,5.8,0.0,Aprovado
-1A,2024,2412721594-6,LEONNI NERES SILVA,MATEMÁTICA,6.1,6.5,6.0,6.7,0.0,Aprovado
-1A,2024,2312350967-4,MARIA CLARA EUGÊNIA FERREIRA,MATEMÁTICA,7.5,7.5,6.2,2.9,0.0,Aprovado
-1A,2024,1610965440-9,PABLO HENRIQUE DOS REIS MAGALHÃES,MATEMÁTICA,6.1,6.8,6.1,5.8,0.0,Aprovado
-1A,2024,2111993509-3,PAULO EDUARDO GOMES FORTUNATO,MATEMÁTICA,2.2,2.8,2.8,1.3,10.0,Reprovado
-1A,2024,2112128423-8,RHUAN CARLOS GALENO DA SILVA,MATEMÁTICA,6.3,6.0,6.0,6.0,0.0,Aprovado
-1A,2024,2412760783-3,SHEILA CINDY GUARACHI CONDORI,MATEMÁTICA,8.0,6.9,6.0,8.2,0.0,Aprovado
-1A,2024,2212247310-0,THYESKA CRISTINI MACHADO,MATEMÁTICA,,,,,,(transferido)
-1A,2024,2011788460-8,VICTOR DANIEL OLIVEIRA PEREIRA,MATEMÁTICA,6.0,6.2,6.1,6.2,0.0,Aprovado
-1A,2024,1310202065-5,WESLEI JUNIO SOUZA FELISBERTO,MATEMÁTICA,,,,,,(transferido)
+1A,2024,2412752317-6,Ana Clara Reis Da Silva,ARTE,7.4,8.4,8.2,8.0,0.0,Aprovado
+1A,2024,2412727121-1,Ana Julia Da Silva E Silva,ARTE,6.2,8.6,6.2,7.8,0.0,Aprovado
+1A,2024,1811397482-9,Anna Clara Calero Guida,ARTE,7.3,6.9,6.8,6.3,0.0,Aprovado
+1A,2024,2412732617-5,Dérick Kauã Lima Ferreira,ARTE,7.0,8.2,7.6,8.3,0.0,Aprovado
+1A,2024,2312711135-2,Eliaeste Gomes Sardinha Neto,ARTE,6.4,7.8,6.4,7.8,0.0,Aprovado
+1A,2024,1811400823-9,Ellen Ester Dias Fonsêca,ARTE,,,,,,(transferido)
+1A,2024,2312382937-0,Evelyn Guedes Ramos,ARTE,8.3,7.9,8.7,9.2,0.0,Aprovado
+1A,2024,2011829467-6,Fernanda Santos Silva,ARTE,6.6,8.8,7.5,8.8,0.0,Aprovado
+1A,2024,2412698289-2,Gabriel Fernando Cardim Oliveira Fernandes,ARTE,6.1,7.2,6.0,7.4,0.0,Aprovado
+1A,2024,1310202082-6,Geana Mariely Miranda Moraes,ARTE,,,,,,(transferido)
+1A,2024,2312506018-1,Geovanna Sodre Cruz,ARTE,,,,,,(transferido)
+1A,2024,2312544975-5,Izadora Rodrigues Felix,ARTE,,,,,,(transferido)
+1A,2024,1711116513-0,João Pedro Evaristo Sampaio,ARTE,7.6,8.1,6.2,6.2,0.0,Aprovado
+1A,2024,2011694975-2,Jose Wesley Da Conceiçao Silva,ARTE,,,,,,(transferido)
+1A,2024,2111991371-6,Juliana Yasmin Mendes Chagas,ARTE,6.0,7.6,6.8,8.3,0.0,Aprovado
+1A,2024,2412726562-7,Jullia Victoria Guimarães Costa,ARTE,7.1,8.2,6.9,7.3,0.0,Aprovado
+1A,2024,2111922702-7,Kamilly Vitoria Dos Reis Souza,ARTE,6.0,8.5,8.2,8.3,0.0,Aprovado
+1A,2024,1911550937-3,Kauâ Victor Alves Rodrigues,ARTE,7.7,7.0,5.3,6.2,0.0,Aprovado
+1A,2024,2412739240-9,Kauana Vitoria Soares Lemos,ARTE,7.7,6.8,6.3,6.3,0.0,Aprovado
+1A,2024,2412721594-6,Leonni Neres Silva,ARTE,6.5,7.6,6.7,7.9,0.0,Aprovado
+1A,2024,2312350967-4,Maria Clara Eugênia Ferreira,ARTE,6.1,7.4,3.8,6.8,0.0,Aprovado
+1A,2024,1610965440-9,Pablo Henrique Dos Reis Magalhães,ARTE,7.1,8.0,6.6,6.5,0.0,Aprovado
+1A,2024,2111993509-3,Paulo Eduardo Gomes Fortunato,ARTE,6.5,7.6,6.2,7.3,0.0,Aprovado
+1A,2024,2112128423-8,Rhuan Carlos Galeno Da Silva,ARTE,6.1,7.4,6.0,6.2,0.0,Aprovado
+1A,2024,2412760783-3,Sheila Cindy Guarachi Condori,ARTE,6.7,8.6,8.2,8.3,0.0,Aprovado
+1A,2024,2212247310-0,Thyeska Cristini Machado,ARTE,,,,,,(transferido)
+1A,2024,2011788460-8,Victor Daniel Oliveira Pereira,ARTE,7.5,7.8,6.8,7.7,0.0,Aprovado
+1A,2024,1310202065-5,Weslei Junio Souza Felisberto,ARTE,,,,,,(transferido)
+1A,2024,2412752317-6,Ana Clara Reis Da Silva,BIOLOGIA,7.0,8.5,7.4,6.6,0.0,Aprovado
+1A,2024,2412727121-1,Ana Julia Da Silva E Silva,BIOLOGIA,6.7,6.0,6.0,6.0,0.0,Aprovado
+1A,2024,1811397482-9,Anna Clara Calero Guida,BIOLOGIA,4.1,6.8,6.0,7.2,0.0,Aprovado
+1A,2024,2412732617-5,Dérick Kauã Lima Ferreira,BIOLOGIA,7.0,8.3,7.0,6.1,0.0,Aprovado
+1A,2024,2312711135-2,Eliaeste Gomes Sardinha Neto,BIOLOGIA,6.2,6.9,6.0,6.0,0.0,Aprovado
+1A,2024,1811400823-9,Ellen Ester Dias Fonsêca,BIOLOGIA,,,,,,(transferido)
+1A,2024,2312382937-0,Evelyn Guedes Ramos,BIOLOGIA,6.0,8.0,8.5,7.6,0.0,Aprovado
+1A,2024,2011829467-6,Fernanda Santos Silva,BIOLOGIA,6.5,7.2,7.1,7.0,0.0,Aprovado
+1A,2024,2412698289-2,Gabriel Fernando Cardim Oliveira Fernandes,BIOLOGIA,6.2,4.7,6.0,7.2,0.0,Aprovado
+1A,2024,1310202082-6,Geana Mariely Miranda Moraes,BIOLOGIA,,,,,,(transferido)
+1A,2024,2312506018-1,Geovanna Sodre Cruz,BIOLOGIA,,,,,,(transferido)
+1A,2024,2312544975-5,Izadora Rodrigues Felix,BIOLOGIA,,,,,,(transferido)
+1A,2024,1711116513-0,João Pedro Evaristo Sampaio,BIOLOGIA,6.2,6.6,6.0,6.5,0.0,Aprovado
+1A,2024,2011694975-2,Jose Wesley Da Conceiçao Silva,BIOLOGIA,,,,,,(transferido)
+1A,2024,2111991371-6,Juliana Yasmin Mendes Chagas,BIOLOGIA,7.0,8.2,6.1,6.1,0.0,Aprovado
+1A,2024,2412726562-7,Jullia Victoria Guimarães Costa,BIOLOGIA,7.2,8.5,6.3,6.0,0.0,Aprovado
+1A,2024,2111922702-7,Kamilly Vitoria Dos Reis Souza,BIOLOGIA,6.9,7.9,6.0,6.8,0.0,Aprovado
+1A,2024,1911550937-3,Kauâ Victor Alves Rodrigues,BIOLOGIA,5.0,6.0,6.0,7.3,0.0,Aprovado
+1A,2024,2412739240-9,Kauana Vitoria Soares Lemos,BIOLOGIA,6.4,7.7,6.0,6.0,0.0,Aprovado
+1A,2024,2412721594-6,Leonni Neres Silva,BIOLOGIA,6.1,6.8,6.0,6.0,0.0,Aprovado
+1A,2024,2312350967-4,Maria Clara Eugênia Ferreira,BIOLOGIA,6.1,6.0,4.0,8.0,0.0,Aprovado
+1A,2024,1610965440-9,Pablo Henrique Dos Reis Magalhães,BIOLOGIA,6.1,7.3,6.0,6.0,0.0,Aprovado
+1A,2024,2111993509-3,Paulo Eduardo Gomes Fortunato,BIOLOGIA,6.0,7.8,6.0,4.5,0.0,Aprovado
+1A,2024,2112128423-8,Rhuan Carlos Galeno Da Silva,BIOLOGIA,6.3,6.8,6.0,6.0,0.0,Aprovado
+1A,2024,2412760783-3,Sheila Cindy Guarachi Condori,BIOLOGIA,6.3,8.9,8.4,7.7,0.0,Aprovado
+1A,2024,2212247310-0,Thyeska Cristini Machado,BIOLOGIA,,,,,,(transferido)
+1A,2024,2011788460-8,Victor Daniel Oliveira Pereira,BIOLOGIA,6.0,7.5,6.4,6.0,0.0,Aprovado
+1A,2024,1310202065-5,Weslei Junio Souza Felisberto,BIOLOGIA,,,,,,(transferido)
+1A,2024,2412752317-6,Ana Clara Reis Da Silva,EDUCAÇÃO FÍSICA,8.9,,7.4,7.1,0.0,Aprovado
+1A,2024,2412727121-1,Ana Julia Da Silva E Silva,EDUCAÇÃO FÍSICA,8.3,,6.9,6.1,0.0,Aprovado
+1A,2024,1811397482-9,Anna Clara Calero Guida,EDUCAÇÃO FÍSICA,7.6,,6.9,6.5,0.0,Aprovado
+1A,2024,2412732617-5,Dérick Kauã Lima Ferreira,EDUCAÇÃO FÍSICA,7.4,,7.2,8.0,0.0,Aprovado
+1A,2024,2312711135-2,Eliaeste Gomes Sardinha Neto,EDUCAÇÃO FÍSICA,8.5,,7.0,8.0,0.0,Aprovado
+1A,2024,1811400823-9,Ellen Ester Dias Fonsêca,EDUCAÇÃO FÍSICA,,,,,,(transferido)
+1A,2024,2312382937-0,Evelyn Guedes Ramos,EDUCAÇÃO FÍSICA,8.8,,7.6,7.8,0.0,Aprovado
+1A,2024,2011829467-6,Fernanda Santos Silva,EDUCAÇÃO FÍSICA,8.7,,7.3,6.9,0.0,Aprovado
+1A,2024,2412698289-2,Gabriel Fernando Cardim Oliveira Fernandes,EDUCAÇÃO FÍSICA,8.7,,6.5,7.2,0.0,Aprovado
+1A,2024,1310202082-6,Geana Mariely Miranda Moraes,EDUCAÇÃO FÍSICA,,,,,,(transferido)
+1A,2024,2312506018-1,Geovanna Sodre Cruz,EDUCAÇÃO FÍSICA,,,,,,(transferido)
+1A,2024,2312544975-5,Izadora Rodrigues Felix,EDUCAÇÃO FÍSICA,,,,,,(transferido)
+1A,2024,1711116513-0,João Pedro Evaristo Sampaio,EDUCAÇÃO FÍSICA,8.4,,6.7,6.5,0.0,Aprovado
+1A,2024,2011694975-2,Jose Wesley Da Conceiçao Silva,EDUCAÇÃO FÍSICA,,,,,,(transferido)
+1A,2024,2111991371-6,Juliana Yasmin Mendes Chagas,EDUCAÇÃO FÍSICA,8.4,,6.8,7.8,0.0,Aprovado
+1A,2024,2412726562-7,Jullia Victoria Guimarães Costa,EDUCAÇÃO FÍSICA,8.3,,7.1,8.2,0.0,Aprovado
+1A,2024,2111922702-7,Kamilly Vitoria Dos Reis Souza,EDUCAÇÃO FÍSICA,8.3,,6.9,8.3,0.0,Aprovado
+1A,2024,1911550937-3,Kauâ Victor Alves Rodrigues,EDUCAÇÃO FÍSICA,8.1,,6.9,6.0,0.0,Aprovado
+1A,2024,2412739240-9,Kauana Vitoria Soares Lemos,EDUCAÇÃO FÍSICA,8.1,,7.2,,2.7,Aprovado
+1A,2024,2412721594-6,Leonni Neres Silva,EDUCAÇÃO FÍSICA,8.3,,7.0,7.7,0.0,Aprovado
+1A,2024,2312350967-4,Maria Clara Eugênia Ferreira,EDUCAÇÃO FÍSICA,8.7,,6.8,6.2,0.0,Aprovado
+1A,2024,1610965440-9,Pablo Henrique Dos Reis Magalhães,EDUCAÇÃO FÍSICA,8.5,,7.2,6.8,0.0,Aprovado
+1A,2024,2111993509-3,Paulo Eduardo Gomes Fortunato,EDUCAÇÃO FÍSICA,8.7,,7.0,7.2,0.0,Aprovado
+1A,2024,2112128423-8,Rhuan Carlos Galeno Da Silva,EDUCAÇÃO FÍSICA,8.4,,6.7,6.7,0.0,Aprovado
+1A,2024,2412760783-3,Sheila Cindy Guarachi Condori,EDUCAÇÃO FÍSICA,8.7,,7.0,7.0,0.0,Aprovado
+1A,2024,2212247310-0,Thyeska Cristini Machado,EDUCAÇÃO FÍSICA,,,,,,(transferido)
+1A,2024,2011788460-8,Victor Daniel Oliveira Pereira,EDUCAÇÃO FÍSICA,8.3,,6.9,6.8,0.0,Aprovado
+1A,2024,1310202065-5,Weslei Junio Souza Felisberto,EDUCAÇÃO FÍSICA,,,,,,(transferido)
+1A,2024,2412752317-6,Ana Clara Reis Da Silva,FILOSOFIA,6.2,6.1,6.0,6.4,0.0,Aprovado
+1A,2024,2412727121-1,Ana Julia Da Silva E Silva,FILOSOFIA,6.7,6.3,6.0,7.7,0.0,Aprovado
+1A,2024,1811397482-9,Anna Clara Calero Guida,FILOSOFIA,6.9,6.9,6.0,6.2,0.0,Aprovado
+1A,2024,2412732617-5,Dérick Kauã Lima Ferreira,FILOSOFIA,6.7,7.6,6.0,6.4,0.0,Aprovado
+1A,2024,2312711135-2,Eliaeste Gomes Sardinha Neto,FILOSOFIA,6.3,8.8,6.3,6.3,0.0,Aprovado
+1A,2024,1811400823-9,Ellen Ester Dias Fonsêca,FILOSOFIA,,,,,,(transferido)
+1A,2024,2312382937-0,Evelyn Guedes Ramos,FILOSOFIA,6.0,7.6,7.7,6.8,0.0,Aprovado
+1A,2024,2011829467-6,Fernanda Santos Silva,FILOSOFIA,6.7,6.8,7.6,6.2,0.0,Aprovado
+1A,2024,2412698289-2,Gabriel Fernando Cardim Oliveira Fernandes,FILOSOFIA,6.1,6.9,6.0,5.2,0.0,Aprovado
+1A,2024,1310202082-6,Geana Mariely Miranda Moraes,FILOSOFIA,,,,,,(transferido)
+1A,2024,2312506018-1,Geovanna Sodre Cruz,FILOSOFIA,,,,,,(transferido)
+1A,2024,2312544975-5,Izadora Rodrigues Felix,FILOSOFIA,,,,,,(transferido)
+1A,2024,1711116513-0,João Pedro Evaristo Sampaio,FILOSOFIA,6.3,6.0,6.3,6.1,0.0,Aprovado
+1A,2024,2011694975-2,Jose Wesley Da Conceiçao Silva,FILOSOFIA,,,,,,(transferido)
+1A,2024,2111991371-6,Juliana Yasmin Mendes Chagas,FILOSOFIA,6.5,7.5,6.3,7.3,0.0,Aprovado
+1A,2024,2412726562-7,Jullia Victoria Guimarães Costa,FILOSOFIA,6.2,6.3,6.0,6.2,0.0,Aprovado
+1A,2024,2111922702-7,Kamilly Vitoria Dos Reis Souza,FILOSOFIA,7.0,6.1,6.0,6.2,0.0,Aprovado
+1A,2024,1911550937-3,Kauâ Victor Alves Rodrigues,FILOSOFIA,5.6,6.0,6.2,6.2,0.0,Aprovado
+1A,2024,2412739240-9,Kauana Vitoria Soares Lemos,FILOSOFIA,6.3,8.0,6.2,6.6,0.0,Aprovado
+1A,2024,2412721594-6,Leonni Neres Silva,FILOSOFIA,6.6,6.1,6.0,6.4,0.0,Aprovado
+1A,2024,2312350967-4,Maria Clara Eugênia Ferreira,FILOSOFIA,7.7,6.6,6.2,6.1,0.0,Aprovado
+1A,2024,1610965440-9,Pablo Henrique Dos Reis Magalhães,FILOSOFIA,6.6,6.7,6.0,6.7,0.0,Aprovado
+1A,2024,2111993509-3,Paulo Eduardo Gomes Fortunato,FILOSOFIA,6.4,6.1,5.4,6.2,0.0,Aprovado
+1A,2024,2112128423-8,Rhuan Carlos Galeno Da Silva,FILOSOFIA,6.1,7.2,5.6,6.1,0.0,Aprovado
+1A,2024,2412760783-3,Sheila Cindy Guarachi Condori,FILOSOFIA,7.5,7.0,6.9,6.3,0.0,Aprovado
+1A,2024,2212247310-0,Thyeska Cristini Machado,FILOSOFIA,,,,,,(transferido)
+1A,2024,2011788460-8,Victor Daniel Oliveira Pereira,FILOSOFIA,6.4,6.5,5.0,6.1,0.0,Aprovado
+1A,2024,1310202065-5,Weslei Junio Souza Felisberto,FILOSOFIA,,,,,,(transferido)
+1A,2024,2412752317-6,Ana Clara Reis Da Silva,FÍSICA,7.6,6.5,6.0,6.0,0.0,Aprovado
+1A,2024,2412727121-1,Ana Julia Da Silva E Silva,FÍSICA,6.3,6.2,6.0,6.0,0.0,Aprovado
+1A,2024,1811397482-9,Anna Clara Calero Guida,FÍSICA,6.7,6.2,6.0,6.0,0.0,Aprovado
+1A,2024,2412732617-5,Dérick Kauã Lima Ferreira,FÍSICA,6.3,6.6,6.0,6.0,0.0,Aprovado
+1A,2024,2312711135-2,Eliaeste Gomes Sardinha Neto,FÍSICA,6.5,6.2,6.0,6.0,0.0,Aprovado
+1A,2024,1811400823-9,Ellen Ester Dias Fonsêca,FÍSICA,,,,,,(transferido)
+1A,2024,2312382937-0,Evelyn Guedes Ramos,FÍSICA,6.0,6.1,6.0,6.2,0.0,Aprovado
+1A,2024,2011829467-6,Fernanda Santos Silva,FÍSICA,6.7,7.1,6.1,6.0,0.0,Aprovado
+1A,2024,2412698289-2,Gabriel Fernando Cardim Oliveira Fernandes,FÍSICA,6.6,6.1,6.1,6.0,0.0,Aprovado
+1A,2024,1310202082-6,Geana Mariely Miranda Moraes,FÍSICA,,,,,,(transferido)
+1A,2024,2312506018-1,Geovanna Sodre Cruz,FÍSICA,,,,,,(transferido)
+1A,2024,2312544975-5,Izadora Rodrigues Felix,FÍSICA,,,,,,(transferido)
+1A,2024,1711116513-0,João Pedro Evaristo Sampaio,FÍSICA,6.3,6.7,6.0,6.0,0.0,Aprovado
+1A,2024,2011694975-2,Jose Wesley Da Conceiçao Silva,FÍSICA,,,,,,(transferido)
+1A,2024,2111991371-6,Juliana Yasmin Mendes Chagas,FÍSICA,7.2,6.1,6.2,6.1,0.0,Aprovado
+1A,2024,2412726562-7,Jullia Victoria Guimarães Costa,FÍSICA,6.4,6.1,6.0,6.0,0.0,Aprovado
+1A,2024,2111922702-7,Kamilly Vitoria Dos Reis Souza,FÍSICA,7.3,6.3,6.0,6.0,0.0,Aprovado
+1A,2024,1911550937-3,Kauâ Victor Alves Rodrigues,FÍSICA,6.2,6.0,6.0,6.2,0.0,Aprovado
+1A,2024,2412739240-9,Kauana Vitoria Soares Lemos,FÍSICA,6.6,6.4,6.0,6.1,0.0,Aprovado
+1A,2024,2412721594-6,Leonni Neres Silva,FÍSICA,6.6,6.4,6.0,6.0,0.0,Aprovado
+1A,2024,2312350967-4,Maria Clara Eugênia Ferreira,FÍSICA,6.0,6.2,6.0,6.0,0.0,Aprovado
+1A,2024,1610965440-9,Pablo Henrique Dos Reis Magalhães,FÍSICA,6.4,6.0,6.2,6.0,0.0,Aprovado
+1A,2024,2111993509-3,Paulo Eduardo Gomes Fortunato,FÍSICA,6.4,6.5,6.0,6.0,0.0,Aprovado
+1A,2024,2112128423-8,Rhuan Carlos Galeno Da Silva,FÍSICA,6.2,6.1,6.1,6.0,0.0,Aprovado
+1A,2024,2412760783-3,Sheila Cindy Guarachi Condori,FÍSICA,7.0,6.0,6.0,6.0,0.0,Aprovado
+1A,2024,2212247310-0,Thyeska Cristini Machado,FÍSICA,,,,,,(transferido)
+1A,2024,2011788460-8,Victor Daniel Oliveira Pereira,FÍSICA,6.6,6.1,6.1,6.0,0.0,Aprovado
+1A,2024,1310202065-5,Weslei Junio Souza Felisberto,FÍSICA,,,,,,(transferido)
+1A,2024,2412752317-6,Ana Clara Reis Da Silva,GEOGRAFIA,8.0,7.7,6.7,7.0,0.0,Aprovado
+1A,2024,2412727121-1,Ana Julia Da Silva E Silva,GEOGRAFIA,8.3,7.8,6.1,6.2,0.0,Aprovado
+1A,2024,1811397482-9,Anna Clara Calero Guida,GEOGRAFIA,6.9,7.6,6.1,6.1,0.0,Aprovado
+1A,2024,2412732617-5,Dérick Kauã Lima Ferreira,GEOGRAFIA,8.3,7.7,6.5,7.1,0.0,Aprovado
+1A,2024,2312711135-2,Eliaeste Gomes Sardinha Neto,GEOGRAFIA,6.8,6.9,6.2,6.8,0.0,Aprovado
+1A,2024,1811400823-9,Ellen Ester Dias Fonsêca,GEOGRAFIA,,,,,,(transferido)
+1A,2024,2312382937-0,Evelyn Guedes Ramos,GEOGRAFIA,6.4,6.0,6.8,8.8,0.0,Aprovado
+1A,2024,2011829467-6,Fernanda Santos Silva,GEOGRAFIA,8.2,8.7,7.4,6.9,0.0,Aprovado
+1A,2024,2412698289-2,Gabriel Fernando Cardim Oliveira Fernandes,GEOGRAFIA,6.9,7.5,6.2,6.9,0.0,Aprovado
+1A,2024,1310202082-6,Geana Mariely Miranda Moraes,GEOGRAFIA,,,,,,(transferido)
+1A,2024,2312506018-1,Geovanna Sodre Cruz,GEOGRAFIA,,,,,,(transferido)
+1A,2024,2312544975-5,Izadora Rodrigues Felix,GEOGRAFIA,,,,,,(transferido)
+1A,2024,1711116513-0,João Pedro Evaristo Sampaio,GEOGRAFIA,6.8,6.0,6.3,6.1,0.0,Aprovado
+1A,2024,2011694975-2,Jose Wesley Da Conceiçao Silva,GEOGRAFIA,,,,,,(transferido)
+1A,2024,2111991371-6,Juliana Yasmin Mendes Chagas,GEOGRAFIA,8.1,8.3,6.2,6.2,0.0,Aprovado
+1A,2024,2412726562-7,Jullia Victoria Guimarães Costa,GEOGRAFIA,6.6,7.8,6.1,6.0,0.0,Aprovado
+1A,2024,2111922702-7,Kamilly Vitoria Dos Reis Souza,GEOGRAFIA,7.8,7.8,6.7,6.4,0.0,Aprovado
+1A,2024,1911550937-3,Kauâ Victor Alves Rodrigues,GEOGRAFIA,6.5,6.2,6.0,6.0,0.0,Aprovado
+1A,2024,2412739240-9,Kauana Vitoria Soares Lemos,GEOGRAFIA,6.7,6.0,6.0,6.4,0.0,Aprovado
+1A,2024,2412721594-6,Leonni Neres Silva,GEOGRAFIA,7.0,7.0,6.4,6.2,0.0,Aprovado
+1A,2024,2312350967-4,Maria Clara Eugênia Ferreira,GEOGRAFIA,6.3,6.5,6.1,6.2,0.0,Aprovado
+1A,2024,1610965440-9,Pablo Henrique Dos Reis Magalhães,GEOGRAFIA,7.0,7.0,6.2,6.2,0.0,Aprovado
+1A,2024,2111993509-3,Paulo Eduardo Gomes Fortunato,GEOGRAFIA,7.6,6.1,6.1,6.2,0.0,Aprovado
+1A,2024,2112128423-8,Rhuan Carlos Galeno Da Silva,GEOGRAFIA,7.2,6.9,6.1,6.3,0.0,Aprovado
+1A,2024,2412760783-3,Sheila Cindy Guarachi Condori,GEOGRAFIA,7.6,7.9,8.1,7.6,0.0,Aprovado
+1A,2024,2212247310-0,Thyeska Cristini Machado,GEOGRAFIA,,,,,,(transferido)
+1A,2024,2011788460-8,Victor Daniel Oliveira Pereira,GEOGRAFIA,8.3,7.0,6.4,7.0,0.0,Aprovado
+1A,2024,1310202065-5,Weslei Junio Souza Felisberto,GEOGRAFIA,,,,,,(transferido)
+1A,2024,2412752317-6,Ana Clara Reis Da Silva,HISTÓRIA,7.4,7.5,6.4,6.1,0.0,Aprovado
+1A,2024,2412727121-1,Ana Julia Da Silva E Silva,HISTÓRIA,6.9,7.1,6.0,6.4,0.0,Aprovado
+1A,2024,1811397482-9,Anna Clara Calero Guida,HISTÓRIA,6.3,7.5,6.2,6.1,0.0,Aprovado
+1A,2024,2412732617-5,Dérick Kauã Lima Ferreira,HISTÓRIA,7.1,7.8,6.0,6.4,0.0,Aprovado
+1A,2024,2312711135-2,Eliaeste Gomes Sardinha Neto,HISTÓRIA,6.4,6.9,6.3,6.1,0.0,Aprovado
+1A,2024,1811400823-9,Ellen Ester Dias Fonsêca,HISTÓRIA,,,,,,(transferido)
+1A,2024,2312382937-0,Evelyn Guedes Ramos,HISTÓRIA,6.3,7.6,7.0,7.7,0.0,Aprovado
+1A,2024,2011829467-6,Fernanda Santos Silva,HISTÓRIA,6.3,7.1,6.0,6.4,0.0,Aprovado
+1A,2024,2412698289-2,Gabriel Fernando Cardim Oliveira Fernandes,HISTÓRIA,6.1,7.2,6.1,4.9,0.0,Aprovado
+1A,2024,1310202082-6,Geana Mariely Miranda Moraes,HISTÓRIA,,,,,,(transferido)
+1A,2024,2312506018-1,Geovanna Sodre Cruz,HISTÓRIA,,,,,,(transferido)
+1A,2024,2312544975-5,Izadora Rodrigues Felix,HISTÓRIA,,,,,,(transferido)
+1A,2024,1711116513-0,João Pedro Evaristo Sampaio,HISTÓRIA,6.4,7.2,6.1,6.3,0.0,Aprovado
+1A,2024,2011694975-2,Jose Wesley Da Conceiçao Silva,HISTÓRIA,,,,,,(transferido)
+1A,2024,2111991371-6,Juliana Yasmin Mendes Chagas,HISTÓRIA,7.1,7.4,6.1,6.3,0.0,Aprovado
+1A,2024,2412726562-7,Jullia Victoria Guimarães Costa,HISTÓRIA,6.7,7.1,6.1,6.2,0.0,Aprovado
+1A,2024,2111922702-7,Kamilly Vitoria Dos Reis Souza,HISTÓRIA,6.1,7.4,6.3,6.7,0.0,Aprovado
+1A,2024,1911550937-3,Kauâ Victor Alves Rodrigues,HISTÓRIA,5.6,7.5,6.0,6.1,0.0,Aprovado
+1A,2024,2412739240-9,Kauana Vitoria Soares Lemos,HISTÓRIA,6.2,7.0,6.2,6.6,0.0,Aprovado
+1A,2024,2412721594-6,Leonni Neres Silva,HISTÓRIA,6.1,6.9,6.3,6.3,0.0,Aprovado
+1A,2024,2312350967-4,Maria Clara Eugênia Ferreira,HISTÓRIA,6.6,7.0,6.0,6.1,0.0,Aprovado
+1A,2024,1610965440-9,Pablo Henrique Dos Reis Magalhães,HISTÓRIA,6.1,7.2,6.0,6.1,0.0,Aprovado
+1A,2024,2111993509-3,Paulo Eduardo Gomes Fortunato,HISTÓRIA,6.5,7.1,5.5,6.0,0.0,Aprovado
+1A,2024,2112128423-8,Rhuan Carlos Galeno Da Silva,HISTÓRIA,6.2,7.4,5.4,6.0,0.0,Aprovado
+1A,2024,2412760783-3,Sheila Cindy Guarachi Condori,HISTÓRIA,7.8,7.7,6.2,6.7,0.0,Aprovado
+1A,2024,2212247310-0,Thyeska Cristini Machado,HISTÓRIA,,,,,,(transferido)
+1A,2024,2011788460-8,Victor Daniel Oliveira Pereira,HISTÓRIA,6.0,7.4,5.5,6.1,0.0,Aprovado
+1A,2024,1310202065-5,Weslei Junio Souza Felisberto,HISTÓRIA,,,,,,(transferido)
+1A,2024,2412752317-6,Ana Clara Reis Da Silva,LÍNGUA EST. MODERNA - INGLÊS,6.7,8.0,7.0,7.3,0.0,Aprovado
+1A,2024,2412727121-1,Ana Julia Da Silva E Silva,LÍNGUA EST. MODERNA - INGLÊS,6.0,9.2,6.9,7.7,0.0,Aprovado
+1A,2024,1811397482-9,Anna Clara Calero Guida,LÍNGUA EST. MODERNA - INGLÊS,6.7,8.0,7.4,6.0,0.0,Aprovado
+1A,2024,2412732617-5,Dérick Kauã Lima Ferreira,LÍNGUA EST. MODERNA - INGLÊS,6.7,7.9,6.8,6.6,0.0,Aprovado
+1A,2024,2312711135-2,Eliaeste Gomes Sardinha Neto,LÍNGUA EST. MODERNA - INGLÊS,6.1,7.4,7.0,7.5,0.0,Aprovado
+1A,2024,1811400823-9,Ellen Ester Dias Fonsêca,LÍNGUA EST. MODERNA - INGLÊS,,,,,,(transferido)
+1A,2024,2312382937-0,Evelyn Guedes Ramos,LÍNGUA EST. MODERNA - INGLÊS,8.2,8.6,8.8,8.7,0.0,Aprovado
+1A,2024,2011829467-6,Fernanda Santos Silva,LÍNGUA EST. MODERNA - INGLÊS,6.3,7.9,8.2,7.7,0.0,Aprovado
+1A,2024,2412698289-2,Gabriel Fernando Cardim Oliveira Fernandes,LÍNGUA EST. MODERNA - INGLÊS,7.2,7.7,6.7,6.3,0.0,Aprovado
+1A,2024,1310202082-6,Geana Mariely Miranda Moraes,LÍNGUA EST. MODERNA - INGLÊS,,,,,,(transferido)
+1A,2024,2312506018-1,Geovanna Sodre Cruz,LÍNGUA EST. MODERNA - INGLÊS,,,,,,(transferido)
+1A,2024,2312544975-5,Izadora Rodrigues Felix,LÍNGUA EST. MODERNA - INGLÊS,,,,,,(transferido)
+1A,2024,1711116513-0,João Pedro Evaristo Sampaio,LÍNGUA EST. MODERNA - INGLÊS,6.4,8.0,7.3,6.8,0.0,Aprovado
+1A,2024,2011694975-2,Jose Wesley Da Conceiçao Silva,LÍNGUA EST. MODERNA - INGLÊS,,,,,,(transferido)
+1A,2024,2111991371-6,Juliana Yasmin Mendes Chagas,LÍNGUA EST. MODERNA - INGLÊS,6.2,8.8,8.0,6.6,0.0,Aprovado
+1A,2024,2412726562-7,Jullia Victoria Guimarães Costa,LÍNGUA EST. MODERNA - INGLÊS,6.3,7.8,6.4,6.6,0.0,Aprovado
+1A,2024,2111922702-7,Kamilly Vitoria Dos Reis Souza,LÍNGUA EST. MODERNA - INGLÊS,6.3,9.0,7.5,7.7,0.0,Aprovado
+1A,2024,1911550937-3,Kauâ Victor Alves Rodrigues,LÍNGUA EST. MODERNA - INGLÊS,7.2,8.4,7.5,6.1,0.0,Aprovado
+1A,2024,2412739240-9,Kauana Vitoria Soares Lemos,LÍNGUA EST. MODERNA - INGLÊS,6.6,7.1,6.3,6.3,0.0,Aprovado
+1A,2024,2412721594-6,Leonni Neres Silva,LÍNGUA EST. MODERNA - INGLÊS,7.0,8.0,7.3,6.2,0.0,Aprovado
+1A,2024,2312350967-4,Maria Clara Eugênia Ferreira,LÍNGUA EST. MODERNA - INGLÊS,6.8,6.4,6.6,6.6,0.0,Aprovado
+1A,2024,1610965440-9,Pablo Henrique Dos Reis Magalhães,LÍNGUA EST. MODERNA - INGLÊS,6.9,8.1,7.2,6.4,0.0,Aprovado
+1A,2024,2111993509-3,Paulo Eduardo Gomes Fortunato,LÍNGUA EST. MODERNA - INGLÊS,6.5,8.0,6.2,6.7,0.0,Aprovado
+1A,2024,2112128423-8,Rhuan Carlos Galeno Da Silva,LÍNGUA EST. MODERNA - INGLÊS,6.0,8.6,6.8,6.9,0.0,Aprovado
+1A,2024,2412760783-3,Sheila Cindy Guarachi Condori,LÍNGUA EST. MODERNA - INGLÊS,7.2,8.2,7.9,7.3,0.0,Aprovado
+1A,2024,2212247310-0,Thyeska Cristini Machado,LÍNGUA EST. MODERNA - INGLÊS,,,,,,(transferido)
+1A,2024,2011788460-8,Victor Daniel Oliveira Pereira,LÍNGUA EST. MODERNA - INGLÊS,6.3,7.6,6.3,6.0,0.0,Aprovado
+1A,2024,1310202065-5,Weslei Junio Souza Felisberto,LÍNGUA EST. MODERNA - INGLÊS,,,,,,(transferido)
+1A,2024,2412752317-6,Ana Clara Reis Da Silva,MATEMÁTICA,7.9,6.1,4.6,6.1,0.0,Aprovado
+1A,2024,2412727121-1,Ana Julia Da Silva E Silva,MATEMÁTICA,8.0,6.5,6.0,6.0,0.0,Aprovado
+1A,2024,1811397482-9,Anna Clara Calero Guida,MATEMÁTICA,6.9,6.5,6.0,4.6,0.0,Aprovado
+1A,2024,2412732617-5,Dérick Kauã Lima Ferreira,MATEMÁTICA,6.1,6.1,6.8,7.6,0.0,Aprovado
+1A,2024,2312711135-2,Eliaeste Gomes Sardinha Neto,MATEMÁTICA,6.1,6.0,6.0,6.6,0.0,Aprovado
+1A,2024,1811400823-9,Ellen Ester Dias Fonsêca,MATEMÁTICA,,,,,,(transferido)
+1A,2024,2312382937-0,Evelyn Guedes Ramos,MATEMÁTICA,5.6,7.6,6.3,9.0,0.0,Aprovado
+1A,2024,2011829467-6,Fernanda Santos Silva,MATEMÁTICA,6.1,6.8,6.5,7.2,0.0,Aprovado
+1A,2024,2412698289-2,Gabriel Fernando Cardim Oliveira Fernandes,MATEMÁTICA,7.2,6.0,6.0,4.8,0.0,Aprovado
+1A,2024,1310202082-6,Geana Mariely Miranda Moraes,MATEMÁTICA,,,,,,(transferido)
+1A,2024,2312506018-1,Geovanna Sodre Cruz,MATEMÁTICA,,,,,,(transferido)
+1A,2024,2312544975-5,Izadora Rodrigues Felix,MATEMÁTICA,,,,,,(transferido)
+1A,2024,1711116513-0,João Pedro Evaristo Sampaio,MATEMÁTICA,6.2,6.1,6.1,6.1,0.0,Aprovado
+1A,2024,2011694975-2,Jose Wesley Da Conceiçao Silva,MATEMÁTICA,,,,,,(transferido)
+1A,2024,2111991371-6,Juliana Yasmin Mendes Chagas,MATEMÁTICA,7.5,6.9,4.6,6.0,0.0,Aprovado
+1A,2024,2412726562-7,Jullia Victoria Guimarães Costa,MATEMÁTICA,6.8,6.1,6.0,5.1,0.0,Aprovado
+1A,2024,2111922702-7,Kamilly Vitoria Dos Reis Souza,MATEMÁTICA,7.5,6.5,6.1,6.0,0.0,Aprovado
+1A,2024,1911550937-3,Kauâ Victor Alves Rodrigues,MATEMÁTICA,7.6,6.0,6.0,4.4,0.0,Aprovado
+1A,2024,2412739240-9,Kauana Vitoria Soares Lemos,MATEMÁTICA,6.4,6.0,6.1,5.8,0.0,Aprovado
+1A,2024,2412721594-6,Leonni Neres Silva,MATEMÁTICA,6.1,6.5,6.0,6.7,0.0,Aprovado
+1A,2024,2312350967-4,Maria Clara Eugênia Ferreira,MATEMÁTICA,7.5,7.5,6.2,2.9,0.0,Aprovado
+1A,2024,1610965440-9,Pablo Henrique Dos Reis Magalhães,MATEMÁTICA,6.1,6.8,6.1,5.8,0.0,Aprovado
+1A,2024,2111993509-3,Paulo Eduardo Gomes Fortunato,MATEMÁTICA,2.2,2.8,2.8,1.3,10.0,Reprovado
+1A,2024,2112128423-8,Rhuan Carlos Galeno Da Silva,MATEMÁTICA,6.3,6.0,6.0,6.0,0.0,Aprovado
+1A,2024,2412760783-3,Sheila Cindy Guarachi Condori,MATEMÁTICA,8.0,6.9,6.0,8.2,0.0,Aprovado
+1A,2024,2212247310-0,Thyeska Cristini Machado,MATEMÁTICA,,,,,,(transferido)
+1A,2024,2011788460-8,Victor Daniel Oliveira Pereira,MATEMÁTICA,6.0,6.2,6.1,6.2,0.0,Aprovado
+1A,2024,1310202065-5,Weslei Junio Souza Felisberto,MATEMÁTICA,,,,,,(transferido)
+1A,2024,2412752317-6,Ana Clara Reis Da Silva,LÍNGUA PORTUGUESA,6.4,6.8,6.6,7.1,0.0,Aprovado
+1A,2024,2412727121-1,Ana Julia Da Silva E Silva,LÍNGUA PORTUGUESA,5.4,5.6,6.0,7.7,0.0,Aprovado
+1A,2024,1811397482-9,Anna Clara Calero Guida,LÍNGUA PORTUGUESA,7.5,6.5,7.6,6.2,0.0,Aprovado
+1A,2024,2412732617-5,Dérick Kauã Lima Ferreira,LÍNGUA PORTUGUESA,7.6,7.4,7.1,7.4,0.0,Aprovado
+1A,2024,2312711135-2,Eliaeste Gomes Sardinha Neto,LÍNGUA PORTUGUESA,6.6,6.0,6.4,6.0,0.0,Aprovado
+1A,2024,1811400823-9,Ellen Ester Dias Fonsêca,LÍNGUA PORTUGUESA,,,,,,(transferido)
+1A,2024,2312382937-0,Evelyn Guedes Ramos,LÍNGUA PORTUGUESA,8.1,8.0,8.4,9.0,0.0,Aprovado
+1A,2024,2011829467-6,Fernanda Santos Silva,LÍNGUA PORTUGUESA,8.3,7.8,7.2,7.1,0.0,Aprovado
+1A,2024,2412698289-2,Gabriel Fernando Cardim Oliveira Fernandes,LÍNGUA PORTUGUESA,6.7,4.5,5.4,7.5,0.0,Aprovado
+1A,2024,1310202082-6,Geana Mariely Miranda Moraes,LÍNGUA PORTUGUESA,,,,,,(transferido)
+1A,2024,2312506018-1,Geovanna Sodre Cruz,LÍNGUA PORTUGUESA,,,,,,(transferido)
+1A,2024,2312544975-5,Izadora Rodrigues Felix,LÍNGUA PORTUGUESA,,,,,,(transferido)
+1A,2024,1711116513-0,João Pedro Evaristo Sampaio,LÍNGUA PORTUGUESA,6.2,6.1,6.8,6.7,0.0,Aprovado
+1A,2024,2011694975-2,Jose Wesley Da Conceiçao Silva,LÍNGUA PORTUGUESA,,,,,,(transferido)
+1A,2024,2111991371-6,Juliana Yasmin Mendes Chagas,LÍNGUA PORTUGUESA,6.7,6.1,7.0,7.0,0.0,Aprovado
+1A,2024,2412726562-7,Jullia Victoria Guimarães Costa,LÍNGUA PORTUGUESA,7.1,6.1,6.8,6.3,0.0,Aprovado
+1A,2024,2111922702-7,Kamilly Vitoria Dos Reis Souza,LÍNGUA PORTUGUESA,7.0,6.0,7.0,7.8,0.0,Aprovado
+1A,2024,1911550937-3,Kauâ Victor Alves Rodrigues,LÍNGUA PORTUGUESA,5.4,6.3,6.9,7.2,0.0,Aprovado
+1A,2024,2412739240-9,Kauana Vitoria Soares Lemos,LÍNGUA PORTUGUESA,7.7,6.2,6.0,7.1,0.0,Aprovado
+1A,2024,2412721594-6,Leonni Neres Silva,LÍNGUA PORTUGUESA,6.7,7.0,6.5,7.0,0.0,Aprovado
+1A,2024,2312350967-4,Maria Clara Eugênia Ferreira,LÍNGUA PORTUGUESA,2.6,5.5,7.0,5.5,3.4,Reprovado
+1A,2024,1610965440-9,Pablo Henrique Dos Reis Magalhães,LÍNGUA PORTUGUESA,6.2,6.1,6.5,6.3,0.0,Aprovado
+1A,2024,2111993509-3,Paulo Eduardo Gomes Fortunato,LÍNGUA PORTUGUESA,5.4,7.0,7.3,6.0,0.0,Aprovado
+1A,2024,2112128423-8,Rhuan Carlos Galeno Da Silva,LÍNGUA PORTUGUESA,5.5,6.1,7.8,6.7,0.0,Aprovado
+1A,2024,2412760783-3,Sheila Cindy Guarachi Condori,LÍNGUA PORTUGUESA,7.4,7.7,7.6,8.0,0.0,Aprovado
+1A,2024,2212247310-0,Thyeska Cristini Machado,LÍNGUA PORTUGUESA,,,,,,(transferido)
+1A,2024,2011788460-8,Victor Daniel Oliveira Pereira,LÍNGUA PORTUGUESA,5.3,5.6,6.9,6.4,0.0,Aprovado
+1A,2024,1310202065-5,Weslei Junio Souza Felisberto,LÍNGUA PORTUGUESA,,,,,,(transferido)
+1A,2024,2412752317-6,Ana Clara Reis Da Silva,QUÍMICA,6.1,6.0,6.0,7.0,0.0,Aprovado
+1A,2024,2412727121-1,Ana Julia Da Silva E Silva,QUÍMICA,6.0,6.0,6.0,6.2,0.0,Aprovado
+1A,2024,1811397482-9,Anna Clara Calero Guida,QUÍMICA,6.1,6.0,6.0,6.1,0.0,Aprovado
+1A,2024,2412732617-5,Dérick Kauã Lima Ferreira,QUÍMICA,6.0,6.1,6.0,6.1,0.0,Aprovado
+1A,2024,2312711135-2,Eliaeste Gomes Sardinha Neto,QUÍMICA,6.1,6.0,6.1,6.1,0.0,Aprovado
+1A,2024,1811400823-9,Ellen Ester Dias Fonsêca,QUÍMICA,,,,,,(transferido)
+1A,2024,2312382937-0,Evelyn Guedes Ramos,QUÍMICA,6.0,6.1,6.0,6.3,0.0,Aprovado
+1A,2024,2011829467-6,Fernanda Santos Silva,QUÍMICA,6.1,6.1,6.1,6.4,0.0,Aprovado
+1A,2024,2412698289-2,Gabriel Fernando Cardim Oliveira Fernandes,QUÍMICA,6.0,6.0,6.0,6.2,0.0,Aprovado
+1A,2024,1310202082-6,Geana Mariely Miranda Moraes,QUÍMICA,,,,,,(transferido)
+1A,2024,2312506018-1,Geovanna Sodre Cruz,QUÍMICA,,,,,,(transferido)
+1A,2024,2312544975-5,Izadora Rodrigues Felix,QUÍMICA,,,,,,(transferido)
+1A,2024,1711116513-0,João Pedro Evaristo Sampaio,QUÍMICA,6.1,6.1,6.1,6.1,0.0,Aprovado
+1A,2024,2011694975-2,Jose Wesley Da Conceiçao Silva,QUÍMICA,,,,,,(transferido)
+1A,2024,2111991371-6,Juliana Yasmin Mendes Chagas,QUÍMICA,6.1,6.3,6.1,6.1,0.0,Aprovado
+1A,2024,2412726562-7,Jullia Victoria Guimarães Costa,QUÍMICA,6.2,6.2,6.1,6.1,0.0,Aprovado
+1A,2024,2111922702-7,Kamilly Vitoria Dos Reis Souza,QUÍMICA,6.1,6.0,6.1,6.1,0.0,Aprovado
+1A,2024,1911550937-3,Kauâ Victor Alves Rodrigues,QUÍMICA,6.0,6.0,6.1,6.0,0.0,Aprovado
+1A,2024,2412739240-9,Kauana Vitoria Soares Lemos,QUÍMICA,6.1,6.0,6.0,6.0,0.0,Aprovado
+1A,2024,2412721594-6,Leonni Neres Silva,QUÍMICA,6.0,6.0,6.1,6.0,0.0,Aprovado
+1A,2024,2312350967-4,Maria Clara Eugênia Ferreira,QUÍMICA,6.0,6.1,6.0,6.0,0.0,Aprovado
+1A,2024,1610965440-9,Pablo Henrique Dos Reis Magalhães,QUÍMICA,6.0,6.0,6.0,6.1,0.0,Aprovado
+1A,2024,2111993509-3,Paulo Eduardo Gomes Fortunato,QUÍMICA,6.0,6.0,6.1,6.0,0.0,Aprovado
+1A,2024,2112128423-8,Rhuan Carlos Galeno Da Silva,QUÍMICA,6.0,6.0,6.0,6.3,0.0,Aprovado
+1A,2024,2412760783-3,Sheila Cindy Guarachi Condori,QUÍMICA,6.1,6.5,6.1,7.1,0.0,Aprovado
+1A,2024,2212247310-0,Thyeska Cristini Machado,QUÍMICA,,,,,,(transferido)
+1A,2024,2011788460-8,Victor Daniel Oliveira Pereira,QUÍMICA,6.0,6.0,6.0,6.2,0.0,Aprovado
+1A,2024,1310202065-5,Weslei Junio Souza Felisberto,QUÍMICA,,,,,,(transferido)
+1A,2024,2412752317-6,Ana Clara Reis Da Silva,SOCIOLOGIA,7.1,7.2,6.2,6.1,0.0,Aprovado
+1A,2024,2412727121-1,Ana Julia Da Silva E Silva,SOCIOLOGIA,6.1,6.5,6.2,6.7,0.0,Aprovado
+1A,2024,1811397482-9,Anna Clara Calero Guida,SOCIOLOGIA,6.5,6.4,6.2,6.4,0.0,Aprovado
+1A,2024,2412732617-5,Dérick Kauã Lima Ferreira,SOCIOLOGIA,6.1,6.7,7.0,7.3,0.0,Aprovado
+1A,2024,2312711135-2,Eliaeste Gomes Sardinha Neto,SOCIOLOGIA,7.5,7.3,6.2,6.1,0.0,Aprovado
+1A,2024,1811400823-9,Ellen Ester Dias Fonsêca,SOCIOLOGIA,,,,,,(transferido)
+1A,2024,2312382937-0,Evelyn Guedes Ramos,SOCIOLOGIA,6.2,7.3,7.7,7.0,0.0,Aprovado
+1A,2024,2011829467-6,Fernanda Santos Silva,SOCIOLOGIA,6.8,6.2,6.4,6.0,0.0,Aprovado
+1A,2024,2412698289-2,Gabriel Fernando Cardim Oliveira Fernandes,SOCIOLOGIA,7.4,6.4,6.2,6.3,0.0,Aprovado
+1A,2024,1310202082-6,Geana Mariely Miranda Moraes,SOCIOLOGIA,,,,,,(transferido)
+1A,2024,2312506018-1,Geovanna Sodre Cruz,SOCIOLOGIA,,,,,,(transferido)
+1A,2024,2312544975-5,Izadora Rodrigues Felix,SOCIOLOGIA,,,,,,(transferido)
+1A,2024,1711116513-0,João Pedro Evaristo Sampaio,SOCIOLOGIA,6.5,6.2,6.2,6.1,0.0,Aprovado
+1A,2024,2011694975-2,Jose Wesley Da Conceiçao Silva,SOCIOLOGIA,,,,,,(transferido)
+1A,2024,2111991371-6,Juliana Yasmin Mendes Chagas,SOCIOLOGIA,6.8,7.3,6.2,6.1,0.0,Aprovado
+1A,2024,2412726562-7,Jullia Victoria Guimarães Costa,SOCIOLOGIA,7.8,6.9,6.3,6.1,0.0,Aprovado
+1A,2024,2111922702-7,Kamilly Vitoria Dos Reis Souza,SOCIOLOGIA,7.8,6.2,6.2,6.1,0.0,Aprovado
+1A,2024,1911550937-3,Kauâ Victor Alves Rodrigues,SOCIOLOGIA,6.3,6.9,6.2,6.1,0.0,Aprovado
+1A,2024,2412739240-9,Kauana Vitoria Soares Lemos,SOCIOLOGIA,6.2,7.5,6.2,6.1,0.0,Aprovado
+1A,2024,2412721594-6,Leonni Neres Silva,SOCIOLOGIA,6.9,6.2,6.2,6.1,0.0,Aprovado
+1A,2024,2312350967-4,Maria Clara Eugênia Ferreira,SOCIOLOGIA,6.2,6.2,6.2,6.1,0.0,Aprovado
+1A,2024,1610965440-9,Pablo Henrique Dos Reis Magalhães,SOCIOLOGIA,7.6,6.7,6.2,6.1,0.0,Aprovado
+1A,2024,2111993509-3,Paulo Eduardo Gomes Fortunato,SOCIOLOGIA,7.2,6.2,6.2,6.1,0.0,Aprovado
+1A,2024,2112128423-8,Rhuan Carlos Galeno Da Silva,SOCIOLOGIA,6.3,6.9,6.2,6.1,0.0,Aprovado
+1A,2024,2412760783-3,Sheila Cindy Guarachi Condori,SOCIOLOGIA,7.3,6.7,7.6,6.1,0.0,Aprovado
+1A,2024,2212247310-0,Thyeska Cristini Machado,SOCIOLOGIA,,,,,,(transferido)
+1A,2024,2011788460-8,Victor Daniel Oliveira Pereira,SOCIOLOGIA,6.2,6.2,6.2,6.1,0.0,Aprovado
+1A,2024,1310202065-5,Weslei Junio Souza Felisberto,SOCIOLOGIA,,,,,,(transferido)
